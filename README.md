@@ -20,8 +20,8 @@ pipenv shell
 
 Si dona error a l'utilitzar `pipenv``
 ```bash
-python - m pipenv install --dev
-python -m shell
+python -m pipenv install --dev
+python -m pipenv shell
 ```
 
 Per executar el projecte:
